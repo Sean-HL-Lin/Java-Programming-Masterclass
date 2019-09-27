@@ -24,6 +24,11 @@ public class Main {
         long myMinLongValue = Long.MIN_VALUE;
         long myMaxLongValue = Long.MAX_VALUE;
         System.out.println("my max long value = " + myMaxLongValue);
-        
+
+        int MyTotal = (myMinIntValue / 2);
+
+        byte myNewByteValue = (byte) (myMinByteValue/2);
+
+        short myNewShortValue = (short) (myMinShortValue /2);
     }
 }
