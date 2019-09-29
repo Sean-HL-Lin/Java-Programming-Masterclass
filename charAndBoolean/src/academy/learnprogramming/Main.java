@@ -12,6 +12,6 @@ public class Main {
 
         boolean myTrueBooleanValue = true;
         boolean myFalseBooleanValue = false;
-        
+
     }
 }
