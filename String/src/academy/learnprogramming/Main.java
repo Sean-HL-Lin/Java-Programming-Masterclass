@@ -24,6 +24,6 @@ public class Main {
         System.out.println(lastString);
         float doubleNumber = 123.123123123f;
 
-        
+
     }
 }
