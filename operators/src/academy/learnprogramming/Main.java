@@ -6,5 +6,13 @@ public class Main {
 
         int result =  1 + 2;
         System.out.println(result);
+
+        result +=2;
+        System.out.println(result);
+
+        boolean isAlien = false;
+        if (isAlien == false) {
+            System.out.println("it is not a alien!");
+        }
     }
 }
