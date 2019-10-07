@@ -7,5 +7,6 @@ public class Main {
         Dog dog = new Dog(123123123);
         dog.getName();
         dog.getWeight();
+        dog.eat();
     }
 }

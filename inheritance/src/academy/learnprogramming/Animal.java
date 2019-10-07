@@ -20,4 +20,9 @@ public class Animal {
     public void setName(String name) {
         this.name = name;
     }
+
+
+    public void eat() {
+        System.out.println("animal eating");
+    }
 }

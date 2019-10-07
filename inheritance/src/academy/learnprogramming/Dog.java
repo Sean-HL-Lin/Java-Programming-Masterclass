@@ -1,6 +1,8 @@
 package academy.learnprogramming;
 
 public class Dog extends Animal{
+
+
     public void getWeight() {
         System.out.println(this.weight);
     }
@@ -14,5 +16,11 @@ public class Dog extends Animal{
     public Dog(int weight) {
         super("Dooooooog");
         this.weight = weight;
+    }
+
+    @Override
+    public void eat() {
+        System.out.println("dog eating");
+        super.eat();
     }
 }
