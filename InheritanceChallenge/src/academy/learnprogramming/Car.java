@@ -6,7 +6,6 @@ public class Car extends Vehicle {
     private boolean isManual;
     private int currentGrear;
 
-
     public Car(String name, String size, int wheels, int doors, boolean isManual, int currentGrear) {
         super(name, size);
         this.wheels = wheels;
@@ -14,6 +13,13 @@ public class Car extends Vehicle {
         this.isManual = isManual;
         this.currentGrear = currentGrear;
     }
+//    public Car(String name, String size, int wheels, int doors, boolean isManual, int currentGrear) {
+//        super(name, size);
+//        this.wheels = wheels;
+//        this.doors = doors;
+//        this.isManual = isManual;
+//        this.currentGrear = currentGrear;
+//    }
 
     public void setCurrentGrear(int currentGrear) {
         this.currentGrear = currentGrear;
