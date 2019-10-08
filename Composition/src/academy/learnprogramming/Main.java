@@ -10,7 +10,7 @@ public class Main {
 
         PC thePC = new PC(theCase,theMonitor,theMotherboard);
 
-        thePC.getMonitor().drawPixelAt(1500,1000,"red");
-        thePC.getTheCase().pressPowerButton();
+        thePC.powerUp();
+
     }
 }
