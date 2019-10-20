@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4b27d3f-9699-44fb-a4e3-c09f0037b569" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/.idea/SetAndHashSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/Adventure/src/com/learnprogramming/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/Map/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/Map/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/Map/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/Map/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/Map/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/SetAndHashSet/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/SetAndHashSet/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/SetAndHashSet/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/SetAndHashSet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/SetAndHashSet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/SetAndHashSet/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/SetAndHashSet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/SetAndHashSet/SetAndHashSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/SetAndHashSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/out/production/SetAndHashSet/com/timbuchalka/Challenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/out/production/SetAndHashSet/com/timbuchalka/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/out/production/SetAndHashSet/com/timbuchalka/DogMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/out/production/SetAndHashSet/com/timbuchalka/HeavenlyBody.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/out/production/SetAndHashSet/com/timbuchalka/Labrador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/out/production/SetAndHashSet/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/out/production/SetAndHashSet/com/timbuchalka/SetMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/src/com/timbuchalka/Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/src/com/timbuchalka/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/src/com/timbuchalka/DogMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/src/com/timbuchalka/HeavenlyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/src/com/timbuchalka/Labrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chap_12_Collections/setChallenge/src/com/timbuchalka/SetMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Adventure/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/Adventure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/src/com/learnprogramming/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Adventure/src/com/learnprogramming/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/src/com/learnprogramming/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Adventure/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Map/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Map/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Adventure/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/Map.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Adventure/Adventure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/out/production/Map/com/learnprogramming/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Map/out/production/Map/com/learnprogramming/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/out/production/Map/com/learnprogramming/MapProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Map/out/production/Map/com/learnprogramming/MapProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/src/com/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Map/src/com/learnprogramming/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Map/src/com/learnprogramming/MapProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Map/src/com/learnprogramming/MapProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../SetAndHashSet/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Adventure/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Adventure/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Adventure/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SetAndHashSet/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Adventure/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/SetAndHashSet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/Map/Map.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/out/production/SetAndHashSet/com/learnprogramming/HeavenlyBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/SetAndHashSet/out/production/SetAndHashSet/com/learnprogramming/HeavenlyBody.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/out/production/SetAndHashSet/com/learnprogramming/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/SetAndHashSet/out/production/SetAndHashSet/com/learnprogramming/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/src/com/learnprogramming/HeavenlyBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/SetAndHashSet/src/com/learnprogramming/HeavenlyBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/src/com/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../chap_12_Collections/SetAndHashSet/src/com/learnprogramming/Main.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SREyaoRBqgaaPxzyuXzEs87yDK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.learnprogramming.Main" />
+      <module name="sortedCollection" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4b27d3f-9699-44fb-a4e3-c09f0037b569" name="Default Changelist" comment="" />
+      <created>1571518262678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571518262678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
