@@ -133,7 +133,6 @@
             <TitledPane text="titled pane">
                 <Label text="hiden text in here"/>
             </TitledPane>
-
         </panes>
     </Accordion>
 
